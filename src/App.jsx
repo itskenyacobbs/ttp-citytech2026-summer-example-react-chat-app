@@ -38,8 +38,8 @@ const [messages, setMessages] = useState([]);
         //determine what the message is
         const new_message = event.target.incoming_text.value;
 
-        //add the new message to the message state
-        setMessages([..])
+        // //add the new message to the message state
+        // setMessages([..])
     }}
     
     <input />
